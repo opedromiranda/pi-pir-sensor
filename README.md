@@ -21,7 +21,7 @@ sensor.start();
 ```
 
 ### Methods
-
+------------------
 #### start()
 Starts reading sensor
 
@@ -29,8 +29,11 @@ Starts reading sensor
 Stops reading sensor
 
 
-### Properties
 
+
+
+### Properties
+------------------
 #### pin
 Pin number
 
