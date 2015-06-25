@@ -1,6 +1,6 @@
 {
   "name": "pi-pir-sensor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PIR sensor library for the Raspberry Pi",
   "main": "lib/sensor.js",
   "scripts": {

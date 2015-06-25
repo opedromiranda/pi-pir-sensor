@@ -16,4 +16,26 @@ var sensor = new Sensor({
 sensor.on('movement', function () {
     // who's there?
 });
+
+sensor.start();
 ```
+
+### Methods
+
+#### start()
+Starts reading sensor
+
+#### stop()
+Stops reading sensor
+
+
+### Properties
+
+#### pin
+Pin number
+
+#### loop
+Loop interval
+
+#### lastMovement
+Date of last registered movement
